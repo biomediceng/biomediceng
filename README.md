@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate biomedical engineer from Switzerland</h3>
 <img align="right" alt="Engineering" width="400" src="https://vescosolutions.com/wp-content/uploads/2018/03/Service-Icon_Contract-Manufacturing-Engineering-Animated.gif">
